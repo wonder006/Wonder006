@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Wonder 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -8,9 +8,9 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+
+  <a href="https://www.linkedin.com/in/call-me-wonder-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:wonderayeni06@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
@@ -18,10 +18,10 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy watching the NBA. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://Wonder006.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
@@ -41,10 +41,10 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Intermidate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-Beginner-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
 #### Programming & Automation
